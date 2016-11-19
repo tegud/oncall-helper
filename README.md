@@ -21,11 +21,11 @@ You'll need a config.json folder in the application root with the following form
 
 Once installed and configured, call oncall-helper-victorops with the following arguments:
 
-node index "team-stub"
+`node index "team-stub"`
 
 This will set the data for 2 days ago for the team "team-stub", alternatively, if you want to be able to specify the date:
 
-node index "team-stub" --date "YYYY-MM-DD"
+`node index "team-stub" --date "YYYY-MM-DD"`
 
 ## Limitations
 
