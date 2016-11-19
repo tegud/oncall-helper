@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tegud/oncall-helper#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "moment": "^2.16.0",
     "request": "^2.79.0"
   }
