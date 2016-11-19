@@ -5,6 +5,7 @@ For a specific day, loads the on call shifts into the Oncall Helper database. Fo
 ## Requirements
  - Node 6+
  - Victorops Account
+ - Elasticsearch (other databases may be supported in the future)
 
 ## Installation
 
